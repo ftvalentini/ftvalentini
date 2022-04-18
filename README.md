@@ -1,6 +1,5 @@
 ### My projects
 
-* [An assessment of NLP techniques to quantify stereotypes](https://github.com/ftvalentini/tesis-BiasNLP#measuring-stereotypes-in-corpora) (master's thesis -- work in progress) :memo:
 * [Anomaly detection and 7-day mortality prediction in an ICU](https://github.com/ftvalentini/mimic-mortality/blob/master/informe/valentini_especializacion_final.pdf) (specialization work) :hospital:
 * [Finding hypallages in Borges' short stories with NLP](https://github.com/ftvalentini/misc-notebooks/blob/master/borges_hipalages.ipynb) :books:
 * [Crop classification using satellite images](https://github.com/ftvalentini/DesafioAgTech2020/tree/master/resultado) :seedling:
