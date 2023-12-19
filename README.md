@@ -1,7 +1,12 @@
-### My projects
 
-* [A PMI-based approach to measure biases in texts](https://github.com/ftvalentini/BiasPMI) (code for ACL 2023 paper) :page_facing_up:
-* [Embedding-based bias metrics depend on frequency!](https://github.com/ftvalentini/EmbeddingsBiasFrequency) (code for EMNLP 2022 Findings paper) :page_facing_up:  
+### Code accompanying papers
+
+* [Further investigating the frequency distortion of static word embeddings](https://github.com/ftvalentini/EmbeddingsFrequency) (EMNLP 2023 Findings) :page_facing_up:
+* [A PMI-based approach to measure biases in texts](https://github.com/ftvalentini/BiasPMI) (ACL 2023) :page_facing_up:
+* [Embedding-based bias metrics depend on frequency!](https://github.com/ftvalentini/EmbeddingsBiasFrequency) (EMNLP 2022 Findings) :page_facing_up:  
+
+### Other projects
+
 * [Anomaly detection and 7-day mortality prediction in an ICU](https://github.com/ftvalentini/mimic-mortality/blob/master/informe/valentini_especializacion_final.pdf) (specialization work) :hospital:
 * [Finding hypallages in Borges' short stories with NLP](https://github.com/ftvalentini/misc-notebooks/blob/master/borges_hipalages.ipynb) :books:
 * [Crop classification using satellite images](https://github.com/ftvalentini/DesafioAgTech2020/tree/master/resultado) :seedling:
