@@ -1,6 +1,7 @@
 
 ### Code accompanying papers
 
+* [MessIRve: A Large-Scale Spanish Information Retrieval Dataset](https://github.com/ftvalentini/MessirveSpanishIR) (EMNLP 2025) :page_facing_up:
 * [Further investigating the frequency distortion of static word embeddings](https://github.com/ftvalentini/EmbeddingsFrequency) (EMNLP 2023 Findings) :page_facing_up:
 * [A PMI-based approach to measure biases in texts](https://github.com/ftvalentini/BiasPMI) (ACL 2023) :page_facing_up:
 * [Embedding-based bias metrics depend on frequency!](https://github.com/ftvalentini/EmbeddingsBiasFrequency) (EMNLP 2022 Findings) :page_facing_up:  
