@@ -1,6 +1,7 @@
 
 ### Code accompanying papers
 
+* [Do Neural Retrievers Prefer Certain Documents? Evidence of Learned Relevance Priors](https://github.com/ftvalentini/RetrievalRelevancePriors) (EMNLP 2026 Findings) :page_facing_up:
 * [CLIRudit: Cross-Lingual Information Retrieval of Scientific Documents](https://github.com/ftvalentini/CLIRudit) (MRL 2025) :page_facing_up:
 * [MessIRve: A Large-Scale Spanish Information Retrieval Dataset](https://github.com/ftvalentini/MessirveSpanishIR) (EMNLP 2025) :page_facing_up:
 * [Further investigating the frequency distortion of static word embeddings](https://github.com/ftvalentini/EmbeddingsFrequency) (EMNLP 2023 Findings) :page_facing_up:
